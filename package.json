@@ -1,0 +1,15 @@
+{
+  "name": "vue-constants",
+  "version": "1.0.0",
+  "dependencies": {},
+  "description": "adds constants declaration to vue components",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kay999/vue-constants.git"
+  },
+  "author": "kay999",
+  "license": "MIT",
+  "devDependencies": {
+  }
+}
