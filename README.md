@@ -3,11 +3,11 @@ Adds a constants declaration-section to vue components.
 
 This allows you to better state your intent and also to avoid the overhead of vue creating observers on non-changing values.
 
-install via 
+Install via 
 
     npm install vue-constants
 
-Use in your project via
+Enable it in your project via
 
     import VueConstants from 'vue-constants'
     Vue.use(VueConstants);
